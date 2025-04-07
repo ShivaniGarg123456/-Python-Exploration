@@ -29,7 +29,7 @@ Each folder contains a self-contained mini-project with its own code and a `READ
 If you're a recruiter or collaborator, feel free to reach out:
 
 **Shivani Garg**  
-📧  Email - Sg2895653@gmail.comS  
+📧  Email - Sg2895653@gmail.com  
 🐙  GitHub - https://github.com/ShivaniGarg123456
 🔗 Linkedin -   https://www.linkedin.com/in/shivani-garg-11b795325
 
